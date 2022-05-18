@@ -1,4 +1,4 @@
-package lista01;
+
 import java.util.Scanner;
 /*
 Criar um programa para identificar o valor a ser pago por um plano de saúde dada a idade do conveniado considerando que todos pagam no mínimo R$ 300 e mais um adicional (se tiver dependentes) conforme a seguinte tabela (para cada dependente e pode ter mais do que um):
