@@ -1,7 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "urna",
         "lista03",
-        "Urna",
-        "urna"
+        "lista4.java"
     ]
 }
