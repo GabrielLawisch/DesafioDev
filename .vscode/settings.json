@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
         "urna",
+        "sorteio",
         "lista4.java",
         "lista03",
         "ListaRepeticao.java",
         "Lista5.java",
-        "sorteio"
+        "botDiscord"
     ],
     "editor.cursorSmoothCaretAnimation": true
 }
