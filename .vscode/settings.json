@@ -1,12 +1,14 @@
 {
     "java.project.sourcePaths": [
+        "vetores",
         "urna",
         "sorteio",
         "lista4.java",
         "lista03",
+        "botDiscord",
         "ListaRepeticao.java",
         "Lista5.java",
-        "botDiscord"
+        "vetores.java",
     ],
     "editor.cursorSmoothCaretAnimation": true
 }
