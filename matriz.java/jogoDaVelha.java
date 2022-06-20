@@ -403,7 +403,7 @@ class jogoDaVelha {
                 }
 
             } else {
-                System.out.println("O jogador 2 começa! Use o O para jogar!");
+                System.out.println("O jogador 2 começa! Use o X para jogar!");
                 ganhar = false;
                 while(!ganhar){
                     jogando = true;
